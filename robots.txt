@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://odupuivi.github.io/RvI/sitemap_index.txt.gz
+Sitemap: https://odupuivi.github.io/fKy/sitemap_index.txt.gz
+Sitemap: https://odupuivi.github.io/gKC/sitemap_index.txt.gz
+Sitemap: https://odupuivi.github.io/oOY/sitemap_index.txt.gz
+Sitemap: https://odupuivi.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://odupuivi.github.io/vWb/sitemap_index.txt.gz
